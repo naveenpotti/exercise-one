@@ -1,0 +1,7 @@
+ul > li {
+    list-style: none;
+    border: 2px solid #eee;
+    height: 25px;
+    line-height: 25px;
+    margin: 5px;
+}
